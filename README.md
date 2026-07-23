@@ -1,16 +1,14 @@
-## Hi there 👋
+**Hi, I am Jandry Rodriguez**
 
-<!--
-**jzndry/jzndry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science and Mathematics Graduate from QMUL 📍 Based in London, UK.
+My final year project was a mobile app designed to help 
 
-Here are some ideas to get you started:
+🔗 Here is the mandaorty portfolio link : portfolio link here (tba)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have been working to further improve the Java and general OOP skills established in my first year of university.
+
+The technologies typically used are: React · TypeScript · Python 
+I like to use Django and FastAPI for backend related Python projects. Django for more intensive database reliant projects and 
+I’m currently learning cloud technologies.
+
+📫 Reach me through my email at jandry.rodriguez@outlook.com or LinkedIn.
