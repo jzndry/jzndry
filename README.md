@@ -1,4 +1,4 @@
-**Hi, I am Jandry Rodriguez**
+**Hi, I am Jandry**
 
 🎓 Computer Science and Mathematics Graduate from QMUL 📍 Based in London, UK.
 My final year project was a mobile app designed to help 
